@@ -1,0 +1,86 @@
+#main{
+    margin-top: 20px;
+    margin-left: 241px;
+}
+#contact{
+    margin-top: 92px;
+}
+#table{
+    margin-top: 25px;
+
+}
+#customer{
+    float: left;
+    border: 3px solid red;
+    padding: 3px;
+    margin-left: -10px;
+    margin-right: 454px;
+    margin-top: 0px;
+    font-size: medium;
+    width: 220px;
+    border-radius: 15px;
+        
+}
+#foot{
+    margin-top: 204px;
+}
+#seller{
+    float: left;
+    border: 3px solid red;
+    padding: 3px;
+    margin-left: 242px;
+    margin-right: 454px;
+    margin-top: -67px;
+    font-size: medium;
+    width: 220px;
+    border-radius: 15px;
+}
+#financial{
+    float: left;
+    border: 3px solid red;
+    padding: 3px;
+    margin-left: -8px;
+    margin-right: 454px;
+    margin-top: 31px;
+    font-size: medium;
+    width: 220px;
+    border-radius: 15px;
+}
+#notice{
+    float: left;
+    border: 3px solid red;
+    padding: 3px;
+    margin-left: 238px;
+    margin-right: 454px;
+    margin-top: -70px;
+    font-size: medium;
+    width: 220px;
+    border-radius: 15px;
+}
+#mess{
+   
+    float: left;
+    border: 3px solid red;
+    padding: 3px;
+    margin-left: -9px;
+    margin-right: 454px;
+    margin-top: 17px;
+    font-size: medium;
+    width: 220px;
+    border-radius: 15px;
+
+    
+}
+#logout{
+    float: left;
+    border: 3px solid red;
+    padding: 3px;
+    margin-left: 236px;
+    margin-right: 454px;
+    margin-top: -69px;
+    font-size: medium;
+    width: 220px;
+    border-radius: 15px;
+    
+    
+}

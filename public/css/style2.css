@@ -1,0 +1,13 @@
+.body-a{
+    color:#2c3e50;
+}
+.body-a:hover{
+    color: #17a2b8; 
+    text-decoration: none;
+}
+.active{
+    color: #bd2130;
+}
+#disable-cart-msg{
+    color: #b3b3b3;
+}
